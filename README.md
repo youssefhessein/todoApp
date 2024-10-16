@@ -1,3 +1,3 @@
 # todoApp
 
-<img src="./Capturetodo2.PNG" alt="Image description" width="256" height="256">
+<img src="./Capturetodo2.PNG" alt="Image description" height="256">
